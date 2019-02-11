@@ -1,0 +1,22 @@
+{
+    "version": 0,
+    "page": 6,
+    "commands": [
+        {
+            "command": "John: Quickly retrieve arms from MAGIC CHEST. ",
+            "link": "/story/7"
+        }
+    ],
+    "media": [
+        {
+            "file": "00006.gif",
+            "folder": "0"
+        }
+    ],
+    "text": "<p class=\"o-story_text type-rg type-hs-small--md type-center line-caption line-copy--md pad-x-0 pad-x-lg--md pad-b-lg\">Out of sympathy for John's perceived lack of arms, you pick up the CAKE for him and put it on his BED.</p>",
+    "pesterlog": null,
+    "flash": false,
+    "javascript": false,
+    "author": "THE HUSS",
+    "commited": true
+}
